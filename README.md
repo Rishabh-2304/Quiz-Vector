@@ -1,2 +1,1 @@
-# Quiz-Vector
-An AI powered quiz generator.
+"# Quiz Vector" 
