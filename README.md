@@ -30,9 +30,9 @@ cd Quiz-Vector.
 npm install
 
 ---
+# Run the development server
+npm run dev.
 
 Let me know if you want to add badges (build status, license, etc.), screenshots, or a demo link — I can help you polish it to perfection.
 
-# Run the development server
-npm run dev.
 
